@@ -8,8 +8,8 @@ DjangoCMS SEO
 .. image:: https://travis-ci.org/oesah/djangocms-seo.svg?branch=master
     :target: https://travis-ci.org/oesah/djangocms-seo
 
-.. image:: https://codecov.io/gh/oesah/djangocms-seo/branch/master/graph/badge.svg
-    :target: https://codecov.io/gh/oesah/djangocms-seo
+.. image:: https://codecov.io/gh/oesah/djangocms_seo/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/oesah/djangocms_seo
 
 The missing SEO App for DjangoCMS.
 
