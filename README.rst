@@ -13,6 +13,12 @@ DjangoCMS SEO
 
 The missing SEO App for DjangoCMS.
 
+Developed by: oesahIT_.
+
+.. _oesahIT: https://www.oesah.de/
+
+
+
 Documentation
 -------------
 
