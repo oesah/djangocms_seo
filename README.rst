@@ -80,3 +80,9 @@ Tools used in rendering this package:
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
+
+
+Sponsorship
+-----------
+
+This project is maintained by `Mathison AG | Mobile & Web Development <https://mathison.ch>`_.
